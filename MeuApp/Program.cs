@@ -5,7 +5,7 @@ namespace MeuApp // divisões lógicas
 {
     class Program // programa em si
     {     
-           
+           // Função principal do programa
         static void Main(string[] args)
         {
             int idade;
@@ -16,7 +16,7 @@ namespace MeuApp // divisões lógicas
             // const int IDADE_MINIMA;
             const int IDADE_MINIMA = 25;
             // const var IDADE_MINIMA = 25;
-            // const var IDADE_MINIMA;
+            // const var IDADE_MINIMA; 
 
             var texto = "Testando";
             Console.WriteLine(texto);
