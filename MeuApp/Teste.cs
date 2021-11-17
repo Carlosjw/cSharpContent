@@ -1,0 +1,5 @@
+namespace MeuApp{
+    class Teste {
+        
+    }
+}
