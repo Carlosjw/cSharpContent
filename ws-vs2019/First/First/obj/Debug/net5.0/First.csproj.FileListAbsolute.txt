@@ -1,0 +1,16 @@
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.exe
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.deps.json
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.runtimeconfig.json
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.dll
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\ref\First.dll
+C:\workspaces\ws-vs2019\First\First\bin\Debug\net5.0\First.pdb
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.csproj.AssemblyReference.cache
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.dll
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\ref\First.dll
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.pdb
+C:\workspaces\ws-vs2019\First\First\obj\Debug\net5.0\First.genruntimeconfig.cache

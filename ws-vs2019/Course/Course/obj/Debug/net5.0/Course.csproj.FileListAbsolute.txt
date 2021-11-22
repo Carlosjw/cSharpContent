@@ -1,0 +1,16 @@
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.exe
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.dll
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\ref\Course.dll
+C:\workspaces\ws-vs2019\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.dll
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\ref\Course.dll
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\workspaces\ws-vs2019\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
